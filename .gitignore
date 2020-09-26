@@ -2,3 +2,6 @@
 *.hfb
 /3DP
 /STP
+
+~$*.sldprt*
+~$*.sldasm*
